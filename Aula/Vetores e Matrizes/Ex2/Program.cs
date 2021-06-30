@@ -11,7 +11,7 @@ namespace Ex2
 
             for (i = 0; i < 10; i++)
             {
-                Console.WriteLine("Digite a " + (i + 1) + "nota:");
+                Console.WriteLine("Digite a " + (i + 1) + "° nota:");
                 notas[i] = float.Parse(Console.ReadLine());
             }
 
