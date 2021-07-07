@@ -43,13 +43,13 @@ namespace Ex14
                             Console.WriteLine("Não é um Triângulo!");
                     }
                     else
-                        Console.WriteLine("Número Iválido!");
+                        Console.WriteLine("Número Inválido!");
                 }
                 else
-                    Console.WriteLine("Número Iválido!");
+                    Console.WriteLine("Número Inválido!");
             }
             else
-                Console.WriteLine("Número Iválido!");
+                Console.WriteLine("Número Inválido!");
         }
     }
 }
