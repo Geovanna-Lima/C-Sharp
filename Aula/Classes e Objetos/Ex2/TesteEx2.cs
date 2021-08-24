@@ -20,7 +20,7 @@ namespace Ex2
             cl1.setConta(c1);
 
             Console.WriteLine("Informações do cliente 1:");
-            Console.WriteLine("Nome:" + cl1.getnome());
+            Console.WriteLine("Nome:" + cl1.getNome());
             Console.WriteLine("Sobrenome:" + cl1.getSobrenome());
             Console.WriteLine("CPF:" + cl1.getCpf() + "\n");
 
@@ -43,7 +43,7 @@ namespace Ex2
             cl2.setConta(c2);
 
             Console.WriteLine("Informações do cliente 2:");
-            Console.WriteLine("Nome:" + cl2.getnome());
+            Console.WriteLine("Nome:" + cl2.getNome());
             Console.WriteLine("Sobrenome:" + cl2.getSobrenome());
             Console.WriteLine("CPF:" + cl2.getCpf() + "\n");
 
@@ -66,7 +66,7 @@ namespace Ex2
             cl3.setConta(c3);
 
             Console.WriteLine("Informações do cliente 3:");
-            Console.WriteLine("Nome:" + cl3.getnome());
+            Console.WriteLine("Nome:" + cl3.getNome());
             Console.WriteLine("Sobrenome:" + cl3.getSobrenome());
             Console.WriteLine("CPF:" + cl3.getCpf() + "\n");
 
