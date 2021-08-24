@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicio1
+namespace Ex1
 {
     class Endereco
     {
@@ -27,7 +27,6 @@ namespace Exercicio1
         {
             return this.bairro;
         }
-
         public void setBairro(string bairro)
         {
             this.bairro = bairro;
@@ -37,7 +36,6 @@ namespace Exercicio1
         {
             return this.cidade;
         }
-
         public void setCidade(string cidade)
         {
             this.cidade = cidade;
@@ -56,7 +54,6 @@ namespace Exercicio1
         {
             return this.cep;
         }
-
         public void setCep(string cep)
         {
             this.cep = cep;

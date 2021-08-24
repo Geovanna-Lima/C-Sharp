@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicio1
+namespace Ex1
 {
     class Escola
     {
@@ -17,7 +17,6 @@ namespace Exercicio1
         {
             return this.nome;
         }
-
         public void setNome(string nome)
         {
             this.nome = nome;
@@ -36,7 +35,6 @@ namespace Exercicio1
         {
             return this.endereco;
         }
-
         public void setEndereco(Endereco endereco)
         {
             this.endereco = endereco;
@@ -46,11 +44,9 @@ namespace Exercicio1
         {
             return this.mediaEnem;
         }
-
         public void setMediaEnem(float media)
         {
             this.mediaEnem = media;
         }
-
     }
 }
