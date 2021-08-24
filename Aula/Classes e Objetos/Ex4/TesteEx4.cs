@@ -28,7 +28,6 @@ namespace Ex4
             p3.setConteudo("Faça o exercício 1.");
             p3.setVisitas(11);
 
-
             //Percorrendo o Array
             Postagem[] pArray = new Postagem[3];
             pArray[0] = p1;
