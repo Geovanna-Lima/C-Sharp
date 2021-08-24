@@ -13,7 +13,7 @@ namespace Ex2
         private string cpf;
         private Conta conta;
 
-        public string getnome()
+        public string getNome()
         {
             return this.nome;
         }
