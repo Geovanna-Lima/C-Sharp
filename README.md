@@ -1,4 +1,4 @@
-# C-Sharp
+# C#
 
 Matéria e exercícios resolvidos em C#
 * Feito por: Geovanna da S. Lima
